@@ -18,9 +18,9 @@ A Python data analysis project utilizing Pandas, Matplotlib, and Seaborn to clea
 ---
 
 ## ✨ Key Features
-- ⚡ **Automated CSV data loading and preprocessing**: Automated CSV data loading and preprocessing
-- ⚡ **Statistical distribution computation (mean, median, standard deviation)**: Statistical distribution computation (mean, median, standard deviation)
-- ⚡ **Informative chart generation (histograms, bar plots, scatter matrices)**: Informative chart generation (histograms, bar plots, scatter matrices)
+- Automated CSV data loading and preprocessing
+- Statistical distribution computation (mean, median, standard deviation)
+- Informative chart generation (histograms, bar plots, scatter matrices)
 
 ---
 
