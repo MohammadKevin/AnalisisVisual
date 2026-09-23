@@ -12,25 +12,25 @@
 
 ---
 
-## 📌 Overview
+## Overview
 A Python data analysis project utilizing Pandas, Matplotlib, and Seaborn to clean, process, and visually analyze structured academic and practical datasets.
 
 ---
 
-## ✨ Key Features
+## Key Features
 - Automated CSV data loading and preprocessing
 - Statistical distribution computation (mean, median, standard deviation)
 - Informative chart generation (histograms, bar plots, scatter matrices)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language**: Python 3
 - **Libraries**: Pandas, Matplotlib, Seaborn, NumPy
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```text
 AnalisisVisual/
 ├── main.py             # Data processing & visualization script
@@ -39,7 +39,7 @@ AnalisisVisual/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Make sure you have the required runtimes and tools installed on your machine:
@@ -56,7 +56,7 @@ python main.py
 
 ---
 
-## 👤 Author
+## Author
 **Mohammad Kevin Arif Rudianto**
 - **GitHub:** [@MohammadKevin](https://github.com/MohammadKevin)
 - **Portfolio:** [portfolio-mohammadkevin.vercel.app](https://portfolio-mohammadkevin.vercel.app)
@@ -65,9 +65,9 @@ python main.py
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 <div align="center">
-⭐️ If you found this repository useful, please consider giving it a star!
+If you found this repository useful, please consider giving it a star!
 </div>
